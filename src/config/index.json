@@ -20,7 +20,7 @@
   "mainHero": {
     "title": "piedras presciosas y bisuteria",
     "subtitle": "el Ruby.",
-    "description": "Inobar llamatibamente Las joyas por su delicadesa y su elaboración tan fascinantes por sus  acabados perfectos de Una Joya y poderle hacer que un cliente quede satisfecho con su trabajó .",
+    "description": "Las joyas destacan por su delicadeza y su fascinante elaboración, con acabados perfectos. Queremos crear una joya impecable para que el cliente quede completamente satisfecho con el trabajo realizado.",
     "img": "/assets/images/1.png",
     "primaryAction": {
       "text": "Get started",
@@ -53,12 +53,12 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 323 2056146",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "Henry.castelblanco@hotmail.com",
         "icon": "/assets/images/email.png"
       },
       {
@@ -68,7 +68,7 @@
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "HENRY CASTELBLANCO",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
