@@ -64,7 +64,8 @@
       {
         "name": "Facebook",
         "description": "HENRY CASTELBLANCO",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       },
       {
         "name": "Facebook",
